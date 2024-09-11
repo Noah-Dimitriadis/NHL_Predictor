@@ -1,0 +1,435 @@
+{
+  "awayTeam": {
+    "abbrev": "CGY",
+    "id": 20,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+    "name": {
+      "default": "Flames"
+    },
+    "score": 4,
+    "sog": 28
+  },
+  "clock": {
+    "inIntermission": false,
+    "running": false,
+    "secondsRemaining": 0,
+    "timeRemaining": "00:00"
+  },
+  "easternUTCOffset": "-05:00",
+  "gameCenterLink": "/gamecenter/cgy-vs-tor/2023/11/10/2023020207",
+  "gameDate": "2023-11-10",
+  "gameOutcome": {
+    "lastPeriodType": "SO"
+  },
+  "gameScheduleState": "OK",
+  "gameState": "OFF",
+  "gameType": 2,
+  "goals": [
+    {
+      "assists": [
+        
+      ],
+      "awayScore": 0,
+      "discreteClip": 6340906526112,
+      "discreteClipFr": 6340909082112,
+      "firstName": {
+        "default": "William"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 8,
+      "homeScore": 1,
+      "lastName": {
+        "default": "Nylander"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8477939.png",
+      "name": {
+        "default": "W. Nylander"
+      },
+      "period": 1,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 1,
+        "periodType": "REG"
+      },
+      "playerId": 8477939,
+      "strength": "pp",
+      "teamAbbrev": "TOR",
+      "timeInPeriod": "03:01"
+    },
+    {
+      "assists": [
+        {
+          "assistsToDate": 6,
+          "name": {
+            "default": "N. Kadri"
+          },
+          "playerId": 8475172
+        }
+      ],
+      "awayScore": 1,
+      "discreteClip": 6340906940112,
+      "discreteClipFr": 6340908490112,
+      "firstName": {
+        "default": "Connor"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 2,
+      "homeScore": 1,
+      "lastName": {
+        "default": "Zary"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/CGY/8482074.png",
+      "name": {
+        "default": "C. Zary"
+      },
+      "period": 1,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 1,
+        "periodType": "REG"
+      },
+      "playerId": 8482074,
+      "strength": "ev",
+      "teamAbbrev": "CGY",
+      "timeInPeriod": "07:02"
+    },
+    {
+      "assists": [
+        {
+          "assistsToDate": 7,
+          "name": {
+            "default": "M. Domi"
+          },
+          "playerId": 8477503
+        },
+        {
+          "assistsToDate": 2,
+          "name": {
+            "default": "N. Robertson"
+          },
+          "playerId": 8481582
+        }
+      ],
+      "awayScore": 1,
+      "discreteClip": 6340906547112,
+      "discreteClipFr": 6340907997112,
+      "firstName": {
+        "default": "Calle"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 4,
+      "homeScore": 2,
+      "lastName": {
+        "cs": "Järnkrok",
+        "default": "Jarnkrok",
+        "fi": "Järnkrok",
+        "sk": "Järnkrok"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8475714.png",
+      "name": {
+        "cs": "C. Järnkrok",
+        "default": "C. Jarnkrok",
+        "fi": "C. Järnkrok",
+        "sk": "C. Järnkrok"
+      },
+      "period": 1,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 1,
+        "periodType": "REG"
+      },
+      "playerId": 8475714,
+      "strength": "ev",
+      "teamAbbrev": "TOR",
+      "timeInPeriod": "08:18"
+    },
+    {
+      "assists": [
+        
+      ],
+      "awayScore": 1,
+      "discreteClip": 6340910211112,
+      "discreteClipFr": 6340909143112,
+      "firstName": {
+        "default": "William"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 9,
+      "homeScore": 3,
+      "lastName": {
+        "default": "Nylander"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8477939.png",
+      "name": {
+        "default": "W. Nylander"
+      },
+      "period": 2,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 2,
+        "periodType": "REG"
+      },
+      "playerId": 8477939,
+      "strength": "sh",
+      "teamAbbrev": "TOR",
+      "timeInPeriod": "01:06"
+    },
+    {
+      "assists": [
+        {
+          "assistsToDate": 12,
+          "name": {
+            "default": "W. Nylander"
+          },
+          "playerId": 8477939
+        },
+        {
+          "assistsToDate": 9,
+          "name": {
+            "default": "M. Rielly"
+          },
+          "playerId": 8476853
+        }
+      ],
+      "awayScore": 1,
+      "discreteClip": 6340910508112,
+      "discreteClipFr": 6340911311112,
+      "firstName": {
+        "default": "John"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 6,
+      "homeScore": 4,
+      "lastName": {
+        "default": "Tavares"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8475166.png",
+      "name": {
+        "default": "J. Tavares"
+      },
+      "period": 2,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 2,
+        "periodType": "REG"
+      },
+      "playerId": 8475166,
+      "strength": "ev",
+      "teamAbbrev": "TOR",
+      "timeInPeriod": "04:45"
+    },
+    {
+      "assists": [
+        {
+          "assistsToDate": 4,
+          "name": {
+            "default": "A. Mangiapane"
+          },
+          "playerId": 8478233
+        },
+        {
+          "assistsToDate": 5,
+          "name": {
+            "default": "J. Huberdeau"
+          },
+          "playerId": 8476456
+        }
+      ],
+      "awayScore": 2,
+      "discreteClip": 6340910311112,
+      "firstName": {
+        "default": "Nikita"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 1,
+      "homeScore": 4,
+      "lastName": {
+        "default": "Zadorov"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/CGY/8477507.png",
+      "name": {
+        "default": "N. Zadorov"
+      },
+      "period": 2,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 2,
+        "periodType": "REG"
+      },
+      "playerId": 8477507,
+      "strength": "ev",
+      "teamAbbrev": "CGY",
+      "timeInPeriod": "05:33"
+    },
+    {
+      "assists": [
+        {
+          "assistsToDate": 4,
+          "name": {
+            "default": "M. Weegar"
+          },
+          "playerId": 8477346
+        },
+        {
+          "assistsToDate": 3,
+          "name": {
+            "default": "R. Andersson"
+          },
+          "playerId": 8478397
+        }
+      ],
+      "awayScore": 3,
+      "discreteClip": 6340910925112,
+      "firstName": {
+        "default": "A.J."
+      },
+      "goalModifier": "none",
+      "goalsToDate": 2,
+      "homeScore": 4,
+      "lastName": {
+        "default": "Greer"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/CGY/8478421.png",
+      "name": {
+        "default": "A. Greer"
+      },
+      "period": 2,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 2,
+        "periodType": "REG"
+      },
+      "playerId": 8478421,
+      "strength": "ev",
+      "teamAbbrev": "CGY",
+      "timeInPeriod": "12:22"
+    },
+    {
+      "assists": [
+        {
+          "assistsToDate": 4,
+          "name": {
+            "default": "M. Backlund"
+          },
+          "playerId": 8474150
+        },
+        {
+          "assistsToDate": 2,
+          "name": {
+            "default": "B. Coleman"
+          },
+          "playerId": 8476399
+        }
+      ],
+      "awayScore": 4,
+      "discreteClip": 6340911568112,
+      "discreteClipFr": 6340912725112,
+      "firstName": {
+        "default": "Martin"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 2,
+      "homeScore": 4,
+      "lastName": {
+        "cs": "Pospíšil",
+        "default": "Pospisil",
+        "sk": "Pospíšil"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/CGY/8481028.png",
+      "name": {
+        "cs": "M. Pospíšil",
+        "default": "M. Pospisil",
+        "sk": "M. Pospíšil"
+      },
+      "period": 3,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 3,
+        "periodType": "REG"
+      },
+      "playerId": 8481028,
+      "strength": "ev",
+      "teamAbbrev": "CGY",
+      "timeInPeriod": "03:22"
+    },
+    {
+      "assists": [
+        
+      ],
+      "awayScore": 4,
+      "firstName": {
+        "default": "Max"
+      },
+      "goalModifier": "none",
+      "goalsToDate": 1,
+      "homeScore": 5,
+      "lastName": {
+        "default": "Domi"
+      },
+      "mugshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8477503.png",
+      "name": {
+        "default": "M. Domi"
+      },
+      "period": 5,
+      "periodDescriptor": {
+        "maxRegulationPeriods": 3,
+        "number": 5,
+        "periodType": "SO"
+      },
+      "playerId": 8477503,
+      "strength": "ev",
+      "teamAbbrev": "TOR",
+      "timeInPeriod": "00:00"
+    }
+  ],
+  "homeTeam": {
+    "abbrev": "TOR",
+    "id": 10,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+    "name": {
+      "default": "Maple Leafs"
+    },
+    "score": 5,
+    "sog": 36
+  },
+  "id": 2023020207,
+  "neutralSite": false,
+  "period": 5,
+  "periodDescriptor": {
+    "maxRegulationPeriods": 3,
+    "number": 5,
+    "periodType": "SO"
+  },
+  "season": 20232024,
+  "startTimeUTC": "2023-11-11T00:00:00Z",
+  "threeMinRecap": "/video/recap-flames-at-maple-leafs-11-10-23-6340914651112",
+  "threeMinRecapFr": "/fr/video/recap-flames-at-maple-leafs-11-10-23-6340913659112",
+  "tvBroadcasts": [
+    {
+      "countryCode": "CA",
+      "id": 289,
+      "market": "A",
+      "network": "SNW",
+      "sequenceNumber": 34
+    },
+    {
+      "countryCode": "CA",
+      "id": 281,
+      "market": "N",
+      "network": "TVAS",
+      "sequenceNumber": 109
+    },
+    {
+      "countryCode": "CA",
+      "id": 293,
+      "market": "H",
+      "network": "TSN4",
+      "sequenceNumber": 137
+    }
+  ],
+  "venue": {
+    "default": "Scotiabank Arena"
+  },
+  "venueTimezone": "America/Toronto",
+  "venueUTCOffset": "-05:00"
+}

@@ -1,11 +1,11 @@
 import requests
+from pprint import pprint
 
-URL =  'https://api-web.nhle.com/v1/player/8479318/game-log/20232024/3'
+URL =  'https://api-web.nhle.com/v1/score/2023-11-10'
 
 r = requests.get(url= URL)
 
 data = r.json()
 
-print(len(data['gameLog']))
+pprint(data)
 
-# 8479318
