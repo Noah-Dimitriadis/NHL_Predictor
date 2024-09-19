@@ -1,1 +1,884 @@
 HomeTeam,HomeScore,HomeSOG,Outcome,AwayTeam,AwayScore,AwaySOG,Outcome
+HomeTeam,HomeScore,HomeSOG,Outcome,AwayTeam,AwayScore,AwaySOG,Outcome
+Flyers,6,27,True,Penguins,3,34,False
+Maple Leafs,5,34,True,Canadiens,4,32,False
+Lightning,5,33,True,Blackhawks,1,23,False
+Oilers,3,31,False,Canucks,5,35,True
+Avalanche,1,27,False,Blues,4,32,True
+Sabres,4,26,False,Capitals,6,28,True
+Devils,2,22,False,Bruins,3,37,True
+Rangers,0,24,False,Islanders,4,33,True
+Red Wings,0,14,False,Hurricanes,3,43,True
+Predators,3,35,True,Blue Jackets,1,30,False
+Jets,4,34,True,Flames,3,26,False
+Oilers,5,46,True,Canucks,2,40,False
+Coyotes,3,37,False,Sharks,4,35,True
+Golden Knights,5,29,True,Ducks,2,22,False
+Kings,3,34,False,Wild,4,27,True
+Sabres,1,31,False,Capitals,2,21,True
+Flyers,5,20,True,Penguins,2,33,False
+Lightning,5,37,True,Blackhawks,2,37,False
+Senators,5,24,True,Maple Leafs,3,23,False
+Avalanche,8,38,True,Blues,0,21,False
+Devils,2,31,True,Bruins,1,28,False
+Coyotes,5,26,True,Sharks,3,34,False
+Rangers,5,32,True,Islanders,0,23,False
+Red Wings,4,21,True,Hurricanes,2,31,False
+Senators,2,19,False,Maple Leafs,3,40,True
+Oilers,1,35,False,Canadiens,5,36,True
+Predators,5,33,True,Blue Jackets,2,44,False
+Kings,3,33,False,Wild,4,44,True
+Flames,3,35,True,Canucks,0,32,False
+Golden Knights,2,33,True,Ducks,1,22,False
+Penguins,4,27,True,Capitals,3,23,False
+Panthers,5,36,True,Blackhawks,2,30,False
+Red Wings,2,37,False,Blue Jackets,3,29,True
+Islanders,1,17,True,Bruins,0,27,False
+Maple Leafs,3,38,True,Jets,1,28,False
+Flyers,1,22,False,Sabres,6,37,True
+Blues,5,33,True,Sharks,4,26,False
+Predators,2,33,False,Hurricanes,4,24,True
+Flames,5,32,True,Canucks,2,27,False
+Oilers,1,26,False,Canadiens,3,34,True
+Ducks,1,27,True,Wild,0,34,False
+Golden Knights,4,28,True,Coyotes,2,32,False
+Rangers,3,50,False,Devils,4,28,True
+Flyers,3,30,True,Sabres,0,40,False
+Panthers,5,30,True,Blackhawks,4,36,False
+Penguins,5,30,True,Capitals,4,26,False
+Senators,3,41,False,Jets,4,28,True
+Red Wings,3,27,True,Blue Jackets,2,24,False
+Kings,2,25,False,Avalanche,3,24,True
+Maple Leafs,1,26,False,Oilers,3,22,True
+Blues,1,23,False,Sharks,2,38,True
+Ducks,2,24,False,Wild,3,32,True
+Canucks,6,28,True,Canadiens,5,36,False
+Golden Knights,5,29,True,Coyotes,2,23,False
+Bruins,5,43,True,Flyers,4,26,False
+Islanders,4,35,True,Devils,1,31,False
+Blue Jackets,2,25,False,Lightning,3,37,True
+Senators,1,29,False,Jets,4,29,True
+Canucks,3,17,False,Canadiens,7,42,True
+Kings,4,27,True,Avalanche,2,26,False
+Capitals,4,32,True,Sabres,3,27,False
+Penguins,4,28,True,Rangers,3,34,False
+Maple Leafs,4,29,True,Oilers,2,32,False
+Blackhawks,4,28,True,Red Wings,1,31,False
+Wild,4,29,True,Sharks,1,29,False
+Stars,7,28,True,Predators,0,34,False
+Coyotes,5,26,True,Golden Knights,2,31,False
+Ducks,2,38,False,Avalanche,3,32,True
+Blue Jackets,5,28,True,Lightning,2,32,False
+Bruins,6,26,True,Flyers,1,17,False
+Canucks,2,25,False,Canadiens,5,33,True
+Blues,4,30,True,Kings,2,23,False
+Jets,6,38,True,Senators,3,21,False
+Blackhawks,6,35,True,Red Wings,2,27,False
+Capitals,3,31,False,Sabres,4,48,True
+Flames,2,33,False,Maple Leafs,3,32,True
+Coyotes,0,16,False,Golden Knights,1,27,True
+Devils,2,24,True,Islanders,0,28,False
+Penguins,3,19,True,Rangers,2,26,False
+Blues,3,31,False,Kings,6,35,True
+Wild,3,29,False,Sharks,5,36,True
+Stars,3,22,True,Predators,2,17,False
+Ducks,3,15,True,Avalanche,1,33,False
+Jets,3,38,False,Oilers,4,38,True
+Canucks,7,35,True,Senators,1,36,False
+Bruins,3,36,True,Penguins,2,30,False
+Sabres,3,24,True,Rangers,2,30,False
+Devils,3,26,False,Flyers,5,31,True
+Capitals,3,37,True,Islanders,2,34,False
+Blue Jackets,3,22,False,Panthers,4,31,True
+Predators,3,39,True,Blackhawks,2,20,False
+Jets,6,33,True,Oilers,4,26,False
+Wild,1,33,False,Kings,2,21,True
+Stars,2,22,True,Red Wings,1,21,False
+Flames,3,26,False,Maple Leafs,4,21,True
+Avalanche,7,42,True,Sharks,3,30,False
+Coyotes,0,31,False,Ducks,1,24,True
+Golden Knights,4,46,False,Blues,5,25,True
+Predators,2,42,True,Blackhawks,1,30,False
+Canucks,5,35,True,Senators,1,43,False
+Bruins,4,20,True,Penguins,1,17,False
+Sabres,2,25,False,Rangers,3,39,True
+Devils,1,34,False,Flyers,3,17,True
+Capitals,6,23,True,Islanders,3,30,False
+Hurricanes,1,35,True,Lightning,0,32,False
+Blue Jackets,3,31,True,Panthers,2,35,False
+Canadiens,4,21,True,Flames,2,25,False
+Wild,5,28,True,Kings,3,35,False
+Stars,7,29,True,Red Wings,3,23,False
+Avalanche,3,38,True,Sharks,0,21,False
+Coyotes,3,34,True,Ducks,2,16,False
+Oilers,3,29,False,Maple Leafs,4,27,True
+Canucks,4,25,True,Senators,1,37,False
+Blackhawks,1,32,False,Blue Jackets,2,27,True
+Sabres,4,31,True,Devils,3,34,False
+Rangers,4,34,False,Penguins,5,38,True
+Flyers,3,17,True,Islanders,2,28,False
+Capitals,4,23,True,Bruins,3,43,False
+Hurricanes,4,26,True,Stars,1,11,False
+Lightning,4,33,True,Predators,3,26,False
+Red Wings,2,27,False,Panthers,3,26,True
+Canadiens,0,37,False,Flames,2,33,True
+Oilers,4,31,True,Maple Leafs,3,29,False
+Wild,1,20,False,Avalanche,5,33,True
+Ducks,1,24,False,Blues,6,30,True
+Jets,1,24,False,Canucks,4,39,True
+Sabres,3,33,False,Devils,5,37,True
+Hurricanes,4,40,True,Stars,3,29,False
+Red Wings,2,34,False,Panthers,3,30,True
+Flyers,4,29,True,Islanders,3,36,False
+Blackhawks,3,36,True,Blue Jackets,1,33,False
+Wild,4,33,True,Avalanche,3,25,False
+Ducks,1,26,False,Blues,4,23,True
+Oilers,8,31,True,Senators,5,38,False
+Rangers,3,24,True,Penguins,1,26,False
+Capitals,3,26,False,Bruins,5,33,True
+Lightning,5,28,True,Predators,2,31,False
+Canadiens,6,40,True,Canucks,2,29,False
+Jets,3,28,False,Flames,4,28,True
+Blue Jackets,3,26,False,Stars,6,33,True
+Canadiens,5,33,True,Canucks,3,39,False
+Blackhawks,3,33,False,Hurricanes,4,41,True
+Blues,4,29,True,Coyotes,3,35,False
+Jets,3,28,True,Flames,2,31,False
+Avalanche,2,31,True,Wild,1,28,False
+Oilers,4,25,True,Senators,2,25,False
+Kings,1,21,False,Ducks,3,43,True
+Lightning,5,27,True,Red Wings,1,16,False
+Flyers,3,25,False,Bruins,4,35,True
+Rangers,4,31,True,Capitals,2,33,False
+Panthers,5,36,False,Predators,6,41,True
+Blue Jackets,4,25,True,Stars,3,28,False
+Canadiens,2,38,False,Senators,3,22,True
+Maple Leafs,7,37,True,Canucks,3,19,False
+Blackhawks,6,35,True,Hurricanes,4,34,False
+Blues,3,43,False,Coyotes,4,30,True
+Jets,4,27,True,Flames,1,24,False
+Flyers,1,24,False,Bruins,2,23,True
+Lightning,3,32,True,Red Wings,1,28,False
+Panthers,2,36,True,Predators,1,25,False
+Golden Knights,5,36,True,Kings,2,29,False
+Ducks,4,37,False,Sharks,5,30,True
+Senators,1,35,False,Canadiens,2,32,True
+Blues,1,25,False,Coyotes,3,19,True
+Islanders,4,26,True,Penguins,3,31,False
+Maple Leafs,5,31,True,Canucks,1,28,False
+Flames,6,28,True,Oilers,4,32,False
+Ducks,2,33,True,Sharks,1,27,False
+Capitals,4,37,False,Flyers,7,23,True
+Panthers,1,37,False,Red Wings,4,39,True
+Blue Jackets,5,22,False,Hurricanes,6,26,True
+Stars,1,31,False,Blackhawks,2,35,True
+Golden Knights,4,33,True,Kings,3,32,False
+Rangers,0,30,False,Islanders,2,30,True
+Blue Jackets,3,22,True,Hurricanes,2,24,False
+Senators,1,28,False,Oilers,3,35,True
+Maple Leafs,3,19,True,Canucks,1,32,False
+Predators,1,24,False,Lightning,4,35,True
+Blues,3,43,False,Coyotes,4,26,True
+Panthers,2,22,True,Red Wings,1,32,False
+Senators,2,42,False,Oilers,3,22,True
+Predators,1,33,False,Lightning,6,30,True
+Stars,1,35,False,Blackhawks,2,29,True
+Flames,3,29,True,Jets,2,27,False
+Golden Knights,5,31,True,Ducks,4,23,False
+Kings,3,27,False,Sharks,4,40,True
+Rangers,2,35,False,Bruins,3,32,True
+Canadiens,2,35,False,Maple Leafs,4,24,True
+Islanders,3,29,False,Penguins,4,35,True
+Panthers,5,29,True,Lightning,2,21,False
+Blackhawks,5,26,False,Blue Jackets,6,43,True
+Predators,3,23,True,Red Wings,2,26,False
+Canadiens,0,38,False,Oilers,3,31,True
+Jets,5,26,True,Senators,1,42,False
+Stars,3,37,False,Hurricanes,5,32,True
+Canucks,1,34,False,Flames,3,26,True
+Golden Knights,0,21,False,Ducks,1,28,True
+Kings,6,31,True,Sharks,2,31,False
+Rangers,0,21,False,Bruins,1,30,True
+Coyotes,1,25,False,Blues,4,27,True
+Jets,1,31,False,Senators,2,29,True
+Sharks,1,25,False,Golden Knights,3,26,True
+Islanders,4,42,True,Bruins,2,30,False
+Panthers,1,34,False,Lightning,6,28,True
+Maple Leafs,1,22,False,Canadiens,2,25,True
+Blackhawks,3,31,True,Blue Jackets,2,31,False
+Predators,2,23,False,Red Wings,4,30,True
+Stars,3,29,False,Hurricanes,4,21,True
+Coyotes,4,36,False,Blues,5,35,True
+Canucks,3,46,True,Flames,1,19,False
+Penguins,6,38,True,Capitals,3,31,False
+Golden Knights,1,24,True,Avalanche,0,30,False
+Coyotes,1,19,True,Blues,0,24,False
+Sabres,1,21,False,Islanders,3,29,True
+Maple Leafs,5,38,False,Senators,6,31,True
+Hurricanes,7,34,True,Blue Jackets,3,40,False
+Lightning,4,31,False,Panthers,6,21,True
+Red Wings,2,29,False,Blackhawks,3,24,True
+Oilers,5,45,False,Jets,6,24,True
+Canucks,3,33,False,Flames,4,27,True
+Sharks,3,29,True,Ducks,2,28,False
+Sabres,0,20,False,Islanders,3,24,True
+Penguins,1,27,False,Capitals,3,42,True
+Rangers,2,39,False,Devils,5,37,True
+Golden Knights,2,29,False,Avalanche,3,25,True
+Kings,4,29,True,Wild,0,28,False
+Hurricanes,3,35,False,Panthers,4,37,True
+Maple Leafs,2,28,True,Senators,1,28,False
+Red Wings,0,29,False,Blackhawks,2,26,True
+Flames,1,36,False,Canucks,5,33,True
+Oilers,3,30,True,Jets,2,35,False
+Bruins,2,27,False,Devils,3,26,True
+Flyers,2,22,False,Rangers,3,33,True
+Penguins,4,37,True,Islanders,1,32,False
+Blue Jackets,3,22,True,Predators,0,32,False
+Maple Leafs,7,31,True,Senators,3,37,False
+Capitals,3,21,True,Sabres,1,23,False
+Blues,3,45,True,Sharks,2,32,False
+Coyotes,2,22,False,Kings,3,29,True
+Ducks,1,17,False,Wild,3,27,True
+Hurricanes,5,38,True,Blackhawks,3,29,False
+Red Wings,2,32,False,Panthers,7,39,True
+Flames,1,21,False,Oilers,2,25,True
+Canucks,0,29,False,Jets,2,31,True
+Devils,2,27,False,Sabres,3,29,True
+Capitals,1,27,False,Rangers,4,24,True
+Avalanche,3,39,True,Golden Knights,2,29,False
+Red Wings,2,27,True,Panthers,1,39,False
+Penguins,3,18,True,Islanders,2,35,False
+Blue Jackets,2,23,False,Predators,4,45,True
+Blues,4,32,False,Sharks,5,27,True
+Canadiens,3,33,False,Maple Leafs,5,27,True
+Coyotes,2,24,False,Kings,4,23,True
+Hurricanes,4,28,True,Lightning,0,24,False
+Ducks,1,27,False,Wild,5,29,True
+Oilers,7,24,True,Flames,1,44,False
+Capitals,4,41,True,Devils,3,26,False
+Senators,3,39,True,Canadiens,2,32,False
+Bruins,7,35,True,Flyers,3,19,False
+Canucks,3,34,False,Jets,4,31,True
+Panthers,3,52,True,Stars,1,25,False
+Hurricanes,2,36,False,Lightning,4,32,True
+Islanders,3,23,True,Sabres,2,36,False
+Maple Leafs,0,34,False,Flames,3,33,True
+Blues,0,31,False,Kings,3,31,True
+Avalanche,0,34,False,Golden Knights,3,28,True
+Coyotes,4,25,True,Ducks,3,28,False
+Sharks,2,33,False,Wild,6,34,True
+Devils,1,42,False,Sabres,4,37,True
+Capitals,2,22,False,Penguins,3,37,True
+Blue Jackets,5,30,False,Blackhawks,6,34,True
+Senators,5,39,True,Canadiens,4,36,False
+Red Wings,0,24,False,Predators,2,33,True
+Canucks,3,33,False,Oilers,4,29,True
+Lightning,3,28,True,Hurricanes,0,25,False
+Panthers,0,43,False,Stars,3,26,True
+Flyers,4,39,True,Rangers,3,27,False
+Maple Leafs,2,39,True,Flames,1,22,False
+Avalanche,2,32,False,Wild,6,25,True
+Coyotes,4,28,True,Ducks,3,35,False
+Blues,1,36,False,Kings,2,20,True
+Islanders,7,37,True,Bruins,2,36,False
+Capitals,5,35,True,Penguins,2,28,False
+Lightning,3,22,True,Hurricanes,1,32,False
+Panthers,3,35,True,Stars,2,39,False
+Blue Jackets,0,26,False,Blackhawks,2,27,True
+Senators,6,31,True,Flames,1,30,False
+Sabres,3,32,False,Devils,4,40,True
+Red Wings,5,32,True,Predators,2,39,False
+Jets,6,30,True,Canadiens,3,21,False
+Canucks,0,32,False,Oilers,3,34,True
+Rangers,6,34,True,Bruins,2,33,False
+Wild,3,30,True,Kings,1,28,False
+Coyotes,2,18,False,Avalanche,3,29,True
+Sabres,0,23,False,Flyers,3,39,True
+Devils,2,24,False,Capitals,5,24,True
+Senators,3,34,False,Flames,6,38,True
+Predators,2,33,True,Blue Jackets,1,30,False
+Islanders,3,27,False,Penguins,4,31,True
+Lightning,5,21,True,Stars,0,20,False
+Panthers,3,31,False,Hurricanes,4,33,True
+Oilers,0,30,False,Maple Leafs,4,29,True
+Blackhawks,3,36,False,Red Wings,5,32,True
+Wild,4,42,True,Kings,3,28,False
+Coyotes,2,25,False,Avalanche,6,41,True
+Jets,2,21,True,Canadiens,1,41,False
+Ducks,2,30,False,Golden Knights,3,27,True
+Sharks,6,40,False,Blues,7,31,True
+Rangers,1,21,False,Bruins,4,36,True
+Sabres,0,28,False,Flyers,3,38,True
+Predators,3,29,True,Blue Jackets,1,29,False
+Devils,2,21,False,Capitals,3,23,True
+Islanders,2,30,True,Penguins,0,20,False
+Blackhawks,7,32,True,Red Wings,2,46,False
+Panthers,2,46,False,Hurricanes,3,31,True
+Senators,5,36,True,Flames,1,28,False
+Jets,0,27,False,Canucks,4,19,True
+Oilers,0,31,False,Maple Leafs,3,23,True
+Golden Knights,5,39,True,Wild,4,30,False
+Ducks,4,33,False,Blues,5,35,True
+Sharks,6,27,True,Avalanche,2,35,False
+Devils,1,29,False,Islanders,2,20,True
+Rangers,3,19,True,Sabres,2,24,False
+Penguins,5,27,True,Flyers,2,42,False
+Blue Jackets,4,36,True,Red Wings,1,20,False
+Canadiens,3,33,True,Senators,1,27,False
+Predators,2,38,False,Hurricanes,4,28,True
+Jets,5,39,True,Canucks,2,33,False
+Stars,0,28,False,Lightning,2,19,True
+Bruins,1,19,False,Capitals,2,28,True
+Oilers,1,27,False,Maple Leafs,6,32,True
+Ducks,2,29,False,Blues,3,21,True
+Golden Knights,5,28,True,Wild,1,37,False
+Kings,2,42,False,Coyotes,3,23,True
+Sharks,0,26,False,Avalanche,4,38,True
+Islanders,5,45,True,Sabres,2,18,False
+Devils,1,36,False,Rangers,6,19,True
+Hurricanes,5,32,True,Red Wings,2,35,False
+Penguins,3,29,False,Flyers,4,35,True
+Canadiens,3,36,False,Jets,4,27,True
+Blackhawks,2,37,False,Lightning,3,34,True
+Predators,4,35,False,Panthers,5,38,True
+Stars,2,24,False,Blue Jackets,3,22,True
+Flames,7,29,True,Senators,3,32,False
+Canucks,3,28,True,Maple Leafs,1,32,False
+Bruins,5,25,True,Capitals,1,32,False
+Blackhawks,4,27,True,Lightning,3,42,False
+Avalanche,3,34,True,Ducks,2,28,False
+Coyotes,1,25,False,Wild,5,27,True
+Kings,2,30,False,Blues,3,22,True
+Sharks,4,29,False,Golden Knights,5,27,True
+Devils,3,27,False,Rangers,6,28,True
+Islanders,5,29,True,Sabres,2,22,False
+Penguins,4,27,True,Flyers,3,22,False
+Predators,2,30,False,Panthers,6,32,True
+Canadiens,7,28,True,Jets,1,29,False
+Canucks,4,31,True,Maple Leafs,2,39,False
+Coyotes,5,31,True,Wild,2,34,False
+Stars,5,26,True,Blue Jackets,0,21,False
+Avalanche,4,33,False,Ducks,5,27,True
+Kings,4,34,True,Blues,3,25,False
+Oilers,3,33,True,Flames,2,36,False
+Sharks,0,24,False,Golden Knights,4,32,True
+Islanders,5,30,True,Sabres,2,26,False
+Blackhawks,3,25,False,Lightning,6,39,True
+Hurricanes,4,26,True,Panthers,2,23,False
+Bruins,0,40,False,Devils,1,25,True
+Flyers,1,37,False,Capitals,3,27,True
+Penguins,5,24,True,Rangers,1,24,False
+Stars,3,38,False,Predators,4,20,True
+Flames,3,34,False,Senators,4,22,True
+Wild,2,21,True,Golden Knights,0,26,False
+Sharks,3,20,True,Blues,2,26,False
+Oilers,3,37,True,Senators,2,28,False
+Avalanche,2,35,False,Coyotes,3,14,True
+Canucks,2,29,True,Canadiens,1,30,False
+Ducks,6,25,True,Kings,5,26,False
+Penguins,4,27,True,Rangers,2,35,False
+Islanders,2,27,True,Bruins,1,33,False
+Flyers,5,33,True,Sabres,4,20,False
+Capitals,5,30,True,Devils,4,31,False
+Hurricanes,3,35,True,Predators,2,23,False
+Blue Jackets,2,40,False,Panthers,4,33,True
+Maple Leafs,3,39,False,Jets,4,23,True
+Red Wings,3,23,False,Lightning,4,29,True
+Stars,6,37,True,Blackhawks,1,22,False
+Wild,4,31,True,Golden Knights,3,27,False
+Oilers,7,36,True,Senators,1,22,False
+Avalanche,2,46,True,Coyotes,1,14,False
+Ducks,1,34,False,Kings,5,37,True
+Canucks,1,24,False,Canadiens,5,45,True
+Bruins,4,27,True,Rangers,0,27,False
+Sabres,2,23,False,Penguins,5,27,True
+Islanders,5,33,True,Devils,3,22,False
+Flyers,3,33,False,Capitals,5,22,True
+Hurricanes,5,26,True,Predators,1,33,False
+Blue Jackets,4,32,False,Panthers,5,32,True
+Maple Leafs,4,38,True,Jets,3,27,False
+Red Wings,6,23,True,Lightning,4,44,False
+Stars,2,30,False,Blackhawks,4,16,True
+Flames,2,29,True,Canadiens,1,18,False
+Blues,4,23,False,Golden Knights,5,40,True
+Wild,4,32,True,Coyotes,0,25,False
+Oilers,6,37,True,Senators,2,25,False
+Avalanche,2,46,True,Kings,0,18,False
+Ducks,0,34,False,Sharks,6,27,True
+Bruins,0,18,False,Rangers,4,33,True
+Blue Jackets,4,26,True,Stars,3,30,False
+Sabres,0,24,False,Penguins,3,34,True
+Devils,2,28,False,Islanders,3,29,True
+Flyers,4,32,False,Capitals,5,23,True
+Lightning,6,28,True,Predators,3,31,False
+Panthers,4,35,True,Blackhawks,2,32,False
+Maple Leafs,2,22,False,Jets,5,32,True
+Flames,3,36,True,Canadiens,1,25,False
+Blues,1,35,False,Golden Knights,5,26,True
+Canucks,2,28,True,Oilers,1,35,False
+Ducks,1,27,False,Sharks,3,33,True
+Wild,4,34,True,Coyotes,1,22,False
+Red Wings,1,26,False,Hurricanes,2,32,True
+Blue Jackets,1,30,False,Stars,2,35,True
+Devils,2,31,False,Islanders,3,34,True
+Avalanche,4,41,True,Kings,1,28,False
+Senators,4,31,True,Maple Leafs,3,36,False
+Lightning,1,39,False,Predators,4,26,True
+Sabres,0,23,False,Capitals,6,30,True
+Rangers,4,24,False,Flyers,5,30,True
+Panthers,6,36,True,Blackhawks,3,29,False
+Penguins,4,26,True,Bruins,1,43,False
+Senators,2,46,False,Canucks,3,28,True
+Jets,2,36,False,Canadiens,4,31,True
+Flames,4,27,True,Oilers,3,31,False
+Golden Knights,2,36,True,Sharks,1,24,False
+Devils,3,27,True,Sabres,2,35,False
+Capitals,3,22,True,Islanders,1,22,False
+Penguins,1,35,False,Bruins,2,33,True
+Red Wings,4,28,True,Hurricanes,2,37,False
+Wild,3,26,True,Coyotes,0,31,False
+Stars,3,27,False,Lightning,4,36,True
+Avalanche,8,36,True,Ducks,4,22,False
+Senators,2,32,False,Canucks,3,29,True
+Rangers,9,29,True,Flyers,0,26,False
+Jets,4,30,True,Canadiens,3,36,False
+Flames,3,33,False,Oilers,7,30,True
+Golden Knights,5,37,True,Sharks,4,33,False
+Kings,4,24,True,Blues,1,20,False
+Devils,3,35,True,Penguins,2,42,False
+Sabres,1,24,False,Bruins,4,37,True
+Islanders,3,25,False,Flyers,4,31,True
+Hurricanes,2,27,False,Blue Jackets,3,28,True
+Lightning,4,23,True,Blackhawks,2,21,False
+Panthers,1,41,False,Predators,2,27,True
+Red Wings,3,21,True,Stars,2,40,False
+Oilers,2,21,True,Jets,1,25,False
+Avalanche,5,55,True,Wild,1,20,False
+Ducks,3,31,True,Coyotes,2,25,False
+Capitals,2,18,True,Rangers,1,33,False
+Canadiens,2,31,False,Canucks,3,28,True
+Maple Leafs,3,27,False,Flames,4,18,True
+Sharks,1,31,False,Blues,2,34,True
+Kings,2,25,False,Golden Knights,4,33,True
+Devils,1,25,False,Penguins,3,29,True
+Panthers,2,49,True,Predators,0,21,False
+Avalanche,6,42,True,Wild,0,31,False
+Lightning,4,29,True,Blackhawks,1,31,False
+Capitals,1,29,False,Rangers,3,25,True
+Islanders,6,28,True,Flyers,1,24,False
+Hurricanes,2,37,False,Blue Jackets,3,31,True
+Red Wings,0,21,False,Stars,3,33,True
+Canadiens,5,40,True,Canucks,4,18,False
+Maple Leafs,2,33,True,Flames,0,31,False
+Ducks,1,28,False,Coyotes,5,28,True
+Sharks,2,31,False,Blues,5,21,True
+Oilers,4,37,True,Jets,2,31,False
+Penguins,1,36,False,Devils,2,35,True
+Lightning,5,24,True,Panthers,3,32,False
+Kings,3,31,True,Golden Knights,1,42,False
+Stars,3,30,False,Predators,4,22,True
+Rangers,5,40,True,Sabres,3,19,False
+Blue Jackets,0,19,False,Hurricanes,3,28,True
+Senators,2,23,True,Flames,1,36,False
+Flyers,1,37,False,Islanders,2,20,True
+Wild,2,23,True,Ducks,1,25,False
+Golden Knights,5,35,True,Blues,1,16,False
+Canucks,0,22,False,Jets,4,29,True
+Coyotes,1,25,False,Avalanche,5,35,True
+Sharks,2,23,True,Kings,1,42,False
+Flyers,3,33,False,Devils,4,32,True
+Blackhawks,3,32,True,Panthers,2,35,False
+Predators,2,34,True,Red Wings,0,31,False
+Stars,1,17,False,Lightning,2,26,True
+Coyotes,5,32,True,Avalanche,4,39,False
+Senators,3,31,True,Flames,1,29,False
+Wild,3,26,True,Ducks,2,30,False
+Penguins,5,42,True,Sabres,2,28,False
+Canucks,1,39,False,Jets,5,36,True
+Sharks,4,28,True,Kings,2,44,False
+Bruins,3,32,False,Islanders,4,27,True
+Flyers,3,44,False,Rangers,8,22,True
+Capitals,4,22,True,Devils,3,24,False
+Blue Jackets,3,36,False,Hurricanes,4,33,True
+Senators,2,31,False,Maple Leafs,3,41,True
+Penguins,4,31,True,Sabres,0,36,False
+Wild,2,11,True,Blues,0,37,False
+Blackhawks,3,21,True,Panthers,0,41,False
+Predators,7,30,True,Red Wings,1,21,False
+Stars,4,41,True,Lightning,3,27,False
+Avalanche,5,32,True,Golden Knights,1,19,False
+Capitals,4,31,True,Devils,0,24,False
+Blues,1,34,False,Ducks,4,24,True
+Flames,2,27,False,Jets,3,29,True
+Coyotes,5,28,True,Sharks,2,22,False
+Bruins,3,36,True,Sabres,2,27,False
+Flyers,2,37,True,Rangers,1,25,False
+Red Wings,3,34,True,Blue Jackets,1,22,False
+Avalanche,2,24,False,Golden Knights,3,34,True
+Hurricanes,4,40,True,Lightning,3,22,False
+Maple Leafs,4,31,True,Oilers,3,20,False
+Penguins,6,21,True,Islanders,3,32,False
+Blackhawks,1,30,False,Predators,3,34,True
+Stars,3,34,False,Panthers,4,28,True
+Flames,4,33,True,Jets,2,24,False
+Coyotes,4,27,True,Sharks,0,34,False
+Capitals,5,22,True,Rangers,4,20,False
+Red Wings,4,29,True,Blue Jackets,1,17,False
+Blues,2,40,False,Ducks,3,24,True
+Bruins,0,40,False,Devils,1,29,True
+Stars,1,34,False,Panthers,4,23,True
+Blackhawks,2,29,False,Predators,3,31,True
+Sabres,3,32,False,Flyers,4,36,True
+Penguins,2,22,True,Islanders,1,25,False
+Maple Leafs,2,31,False,Oilers,3,23,True
+Avalanche,5,48,True,Ducks,2,15,False
+Flames,1,30,False,Jets,5,29,True
+Golden Knights,4,24,True,Kings,1,25,False
+Sharks,4,39,True,Wild,3,25,False
+Canadiens,4,32,True,Oilers,0,17,False
+Bruins,5,48,True,Devils,4,35,False
+Rangers,5,27,True,Capitals,2,32,False
+Lightning,1,38,False,Blue Jackets,3,21,True
+Panthers,4,33,True,Red Wings,1,36,False
+Blackhawks,2,16,True,Hurricanes,1,32,False
+Predators,3,26,True,Stars,2,35,False
+Sabres,6,27,True,Flyers,1,32,False
+Jets,1,27,False,Maple Leafs,3,26,True
+Avalanche,9,38,True,Coyotes,3,31,False
+Golden Knights,2,42,False,Kings,4,30,True
+Sharks,4,33,True,Wild,2,28,False
+Bruins,1,31,False,Penguins,4,23,True
+Sabres,2,23,False,Rangers,3,47,True
+Islanders,8,33,True,Capitals,4,22,False
+Lightning,3,34,True,Blue Jackets,2,38,False
+Panthers,3,36,True,Red Wings,2,27,False
+Senators,1,23,False,Canadiens,4,38,True
+Blackhawks,3,25,False,Hurricanes,4,31,True
+Predators,1,22,False,Stars,4,31,True
+Golden Knights,2,37,False,Wild,3,37,True
+Devils,1,23,False,Capitals,2,40,True
+Jets,1,32,False,Maple Leafs,2,38,True
+Oilers,3,25,True,Flames,2,26,False
+Avalanche,3,39,True,Blues,2,27,False
+Ducks,2,29,False,Coyotes,4,31,True
+Kings,0,30,False,Sharks,3,36,True
+Bruins,7,28,True,Penguins,5,28,False
+Lightning,2,29,True,Red Wings,1,26,False
+Predators,3,21,True,Blackhawks,0,41,False
+Sabres,3,29,True,Rangers,2,30,False
+Islanders,3,24,True,Flyers,2,32,False
+Hurricanes,2,43,False,Stars,3,25,True
+Panthers,5,39,True,Blue Jackets,2,46,False
+Canadiens,3,38,False,Senators,6,32,True
+Avalanche,2,34,True,Blues,1,28,False
+Golden Knights,1,28,False,Wild,2,27,True
+Kings,2,37,False,Sharks,3,23,True
+Lightning,1,28,False,Red Wings,5,18,True
+Devils,4,39,False,Capitals,5,19,True
+Panthers,3,35,True,Blue Jackets,0,32,False
+Hurricanes,1,38,True,Stars,0,28,False
+Flames,2,34,False,Maple Leafs,4,30,True
+Ducks,2,20,False,Coyotes,3,31,True
+Bruins,2,29,False,Flyers,3,32,True
+Canadiens,3,32,True,Oilers,2,23,False
+Jets,4,46,True,Senators,3,23,False
+Blues,1,32,False,Golden Knights,6,33,True
+Wild,4,25,False,Avalanche,5,36,True
+Flames,3,29,False,Maple Leafs,5,30,True
+Kings,2,38,False,Coyotes,5,33,True
+Devils,3,30,False,Sabres,5,18,True
+Islanders,1,39,True,Capitals,0,29,False
+Rangers,8,25,True,Penguins,4,45,False
+Flyers,2,42,False,Bruins,4,26,True
+Hurricanes,5,36,True,Panthers,2,36,False
+Blue Jackets,4,30,True,Lightning,2,38,False
+Red Wings,2,27,False,Predators,3,31,True
+Blackhawks,4,28,True,Stars,2,27,False
+Sharks,1,35,False,Ducks,5,34,True
+Senators,2,30,False,Oilers,4,35,True
+Maple Leafs,3,32,True,Canadiens,2,34,False
+Blues,3,35,True,Golden Knights,1,51,False
+Wild,8,19,True,Avalanche,3,32,False
+Kings,4,30,True,Coyotes,3,27,False
+Sabres,3,27,False,Devils,6,38,True
+Islanders,3,23,True,Flyers,2,27,False
+Rangers,2,24,False,Penguins,5,32,True
+Capitals,2,33,False,Bruins,4,32,True
+Hurricanes,3,22,True,Panthers,0,24,False
+Blue Jackets,4,36,False,Lightning,6,30,True
+Canadiens,2,38,False,Jets,4,27,True
+Senators,1,40,False,Oilers,3,23,True
+Red Wings,1,26,False,Predators,7,32,True
+Blackhawks,1,39,False,Stars,5,34,True
+Sabres,3,33,False,Capitals,4,33,True
+Devils,4,30,False,Penguins,6,27,True
+Islanders,1,32,False,Rangers,4,36,True
+Blues,9,38,True,Wild,1,25,False
+Golden Knights,7,37,True,Coyotes,4,26,False
+Ducks,0,28,False,Avalanche,2,35,True
+Sharks,5,29,True,Kings,2,34,False
+Flyers,3,23,True,Bruins,2,32,False
+Stars,4,20,True,Panthers,1,21,False
+Hurricanes,4,34,False,Red Wings,5,28,True
+Blue Jackets,3,26,False,Blackhawks,4,28,True
+Canadiens,0,19,False,Jets,5,25,True
+Maple Leafs,6,38,True,Senators,5,32,False
+Predators,0,36,False,Lightning,3,34,True
+Blues,3,30,True,Wild,2,30,False
+Flames,5,32,True,Oilers,0,17,False
+Sharks,2,28,False,Kings,4,26,True
+Flyers,3,43,False,Sabres,5,31,True
+Golden Knights,1,29,True,Coyotes,0,14,False
+Ducks,1,25,False,Avalanche,4,37,True
+Devils,2,30,False,Penguins,5,24,True
+Islanders,3,32,True,Rangers,2,26,False
+Bruins,1,35,False,Capitals,8,33,True
+Predators,3,20,True,Stars,2,26,False
+Hurricanes,1,38,False,Red Wings,3,30,True
+Blue Jackets,3,33,False,Blackhawks,4,34,True
+Canadiens,4,25,True,Maple Leafs,2,25,False
+Senators,4,24,True,Jets,2,26,False
+Avalanche,4,20,True,Coyotes,2,37,False
+Kings,2,28,False,Golden Knights,4,41,True
+Sharks,0,46,False,Ducks,4,21,True
+Bruins,3,34,True,Sabres,2,23,False
+Capitals,6,32,True,Flyers,1,30,False
+Devils,0,27,False,Rangers,3,20,True
+Maple Leafs,2,26,False,Flames,3,28,True
+Predators,7,22,True,Lightning,2,23,False
+Stars,2,26,False,Panthers,3,31,True
+Wild,5,22,True,Coyotes,2,30,False
+Canadiens,1,27,False,Flames,4,34,True
+Senators,2,29,False,Jets,3,35,True
+Blues,3,34,False,Avalanche,4,28,True
+Kings,2,22,False,Golden Knights,6,32,True
+Sharks,1,28,False,Ducks,4,27,True
+Bruins,4,45,True,Islanders,1,23,False
+Rangers,4,33,True,Devils,0,16,False
+Capitals,2,29,False,Sabres,5,30,True
+Hurricanes,4,29,True,Predators,1,20,False
+Lightning,3,19,True,Panthers,2,38,False
+Penguins,1,32,False,Flyers,2,27,True
+Maple Leafs,2,33,False,Jets,5,24,True
+Red Wings,4,28,True,Blackhawks,1,25,False
+Stars,4,31,True,Blue Jackets,1,18,False
+Canadiens,2,20,True,Flames,1,29,False
+Bruins,3,28,True,Islanders,0,25,False
+Wild,3,18,True,Sharks,2,22,False
+Ducks,0,16,False,Golden Knights,4,51,True
+Rangers,6,30,True,Devils,3,33,False
+Flyers,3,25,False,Capitals,6,41,True
+Sabres,2,30,False,Penguins,3,41,True
+Canadiens,0,23,False,Senators,4,15,True
+Coyotes,3,29,True,Blues,2,22,False
+Hurricanes,3,48,True,Predators,1,28,False
+Lightning,3,31,False,Panthers,5,32,True
+Red Wings,0,29,False,Blackhawks,4,27,True
+Jets,0,26,False,Oilers,3,25,True
+Wild,5,28,True,Sharks,2,28,False
+Stars,5,32,True,Blue Jackets,1,22,False
+Bruins,6,28,True,Capitals,3,33,False
+Devils,3,30,False,Rangers,5,25,True
+Sabres,4,29,True,Penguins,2,36,False
+Ducks,2,35,False,Golden Knights,5,29,True
+Flyers,0,30,False,Islanders,1,28,True
+Canucks,3,24,True,Maple Leafs,2,39,False
+Lightning,3,36,True,Hurricanes,2,27,False
+Panthers,4,39,True,Blue Jackets,2,36,False
+Stars,3,36,True,Red Wings,2,22,False
+Predators,5,30,True,Blackhawks,2,32,False
+Flames,2,28,False,Senators,4,20,True
+Oilers,4,36,True,Canadiens,1,23,False
+Coyotes,2,24,False,Wild,5,24,True
+Golden Knights,3,40,True,Sharks,2,31,False
+Sabres,0,32,False,Bruins,2,41,True
+Penguins,7,32,True,Devils,6,30,False
+Islanders,6,28,True,Rangers,1,26,False
+Lightning,1,27,False,Hurricanes,4,36,True
+Panthers,5,33,True,Blue Jackets,1,34,False
+Stars,5,24,True,Red Wings,2,26,False
+Canucks,6,29,True,Maple Leafs,3,40,False
+Kings,4,22,True,Ducks,1,25,False
+Blackhawks,5,30,True,Predators,4,40,False
+Coyotes,1,40,False,Wild,4,23,True
+Golden Knights,5,40,True,Sharks,2,33,False
+Oilers,3,25,False,Canadiens,4,31,True
+Rangers,2,35,False,Flyers,3,36,True
+Jets,3,37,False,Maple Leafs,5,33,True
+Sabres,1,30,False,Bruins,5,38,True
+Islanders,0,26,False,Capitals,1,28,True
+Lightning,3,28,True,Blue Jackets,1,25,False
+Panthers,2,34,False,Hurricanes,4,29,True
+Penguins,5,23,True,Devils,1,31,False
+Red Wings,7,23,True,Stars,3,46,False
+Blues,2,27,False,Avalanche,4,29,True
+Canucks,0,31,False,Senators,3,25,True
+Sabres,6,34,True,Bruins,4,40,False
+Rangers,4,24,True,Flyers,1,27,False
+Blackhawks,1,30,False,Predators,3,28,True
+Flames,4,31,True,Canadiens,2,20,False
+Kings,2,42,False,Wild,4,24,True
+Penguins,4,37,True,Devils,2,36,False
+Blues,5,30,True,Avalanche,3,31,False
+Islanders,3,24,False,Capitals,6,30,True
+Panthers,4,36,True,Hurricanes,3,19,False
+Red Wings,1,17,False,Stars,2,52,True
+Jets,1,26,False,Maple Leafs,4,37,True
+Flames,5,34,True,Canadiens,2,32,False
+Ducks,1,24,False,Golden Knights,5,31,True
+Sharks,3,30,False,Wild,6,26,True
+Canucks,4,34,True,Senators,2,28,False
+Kings,0,26,False,Coyotes,4,40,True
+Penguins,1,29,True,Bruins,0,30,False
+Flyers,4,36,True,Devils,3,32,False
+Rangers,6,29,True,Sabres,3,34,False
+Lightning,4,34,True,Blue Jackets,3,22,False
+Flames,1,22,False,Canadiens,2,24,True
+Blues,4,20,True,Avalanche,1,32,False
+Senators,2,27,True,Canucks,1,26,False
+Stars,4,31,True,Hurricanes,3,32,False
+Predators,4,27,True,Panthers,1,40,False
+Jets,1,37,False,Oilers,6,30,True
+Kings,4,25,True,Ducks,1,22,False
+Sharks,6,34,True,Coyotes,4,25,False
+Capitals,1,33,True,Islanders,0,18,False
+Devils,6,27,True,Flyers,4,30,False
+Rangers,3,41,True,Sabres,1,37,False
+Penguins,1,26,False,Bruins,3,31,True
+Blue Jackets,1,33,True,Red Wings,0,41,False
+Blackhawks,4,40,False,Lightning,7,30,True
+Predators,4,30,False,Panthers,7,55,True
+Stars,1,28,False,Hurricanes,5,30,True
+Senators,6,33,True,Canucks,3,22,False
+Wild,3,29,False,Blues,4,32,True
+Canadiens,1,33,False,Maple Leafs,4,29,True
+Jets,1,30,False,Oilers,3,27,True
+Golden Knights,5,26,True,Avalanche,2,37,False
+Kings,2,30,False,Ducks,3,22,True
+Sharks,4,31,True,Coyotes,2,30,False
+Lightning,3,28,True,Stars,0,20,False
+Bruins,5,40,True,Sabres,2,31,False
+Devils,5,19,True,Flyers,3,24,False
+Rangers,0,25,False,Islanders,4,27,True
+Capitals,4,37,False,Penguins,5,35,True
+Hurricanes,3,32,True,Red Wings,1,17,False
+Maple Leafs,4,24,True,Canucks,1,16,False
+Wild,4,30,False,Blues,5,21,True
+Blackhawks,3,27,False,Panthers,4,39,True
+Oilers,1,31,False,Flames,3,30,True
+Canadiens,5,35,True,Jets,3,22,False
+Avalanche,3,36,True,Sharks,0,21,False
+Coyotes,3,32,True,Golden Knights,0,25,False
+Ducks,1,34,False,Kings,2,25,True
+Bruins,6,43,True,Sabres,2,19,False
+Red Wings,1,15,True,Lightning,0,33,False
+Islanders,3,25,True,Rangers,0,28,False
+Flyers,1,32,False,Devils,4,21,True
+Capitals,0,24,False,Penguins,3,26,True
+Hurricanes,2,33,True,Blue Jackets,1,32,False
+Canadiens,3,39,True,Senators,2,23,False
+Maple Leafs,5,30,True,Canucks,1,27,False
+Wild,4,38,True,Blues,3,31,False
+Blackhawks,4,35,False,Panthers,5,42,True
+Predators,1,34,True,Stars,0,28,False
+Avalanche,4,44,True,Sharks,3,25,False
+Oilers,4,29,True,Flames,1,30,False
+Coyotes,2,21,False,Golden Knights,3,34,True
+Ducks,6,33,True,Kings,2,25,False
+Red Wings,1,23,False,Lightning,2,42,True
+Panthers,5,43,True,Stars,4,29,False
+Sabres,4,40,True,Islanders,2,36,False
+Devils,0,20,False,Bruins,3,42,True
+Rangers,3,26,False,Capitals,6,40,True
+Flyers,7,45,True,Penguins,2,37,False
+Hurricanes,5,38,True,Blackhawks,2,17,False
+Blue Jackets,3,32,False,Predators,4,38,True
+Canadiens,3,23,True,Maple Leafs,2,29,False
+Senators,2,18,True,Jets,1,29,False
+Blues,3,32,True,Ducks,1,20,False
+Wild,6,32,True,Golden Knights,5,32,False
+Coyotes,2,34,False,Kings,3,26,True
+Canucks,3,23,False,Oilers,5,32,True
+Sharks,4,27,False,Avalanche,5,31,True
+Sabres,4,31,True,Islanders,3,48,False
+Devils,4,21,True,Bruins,3,36,False
+Flyers,3,33,False,Penguins,7,31,True
+Hurricanes,6,28,True,Blackhawks,3,30,False
+Canucks,1,29,False,Oilers,4,27,True
+Lightning,6,20,True,Stars,2,22,False
+Senators,5,34,True,Canadiens,1,31,False
+Rangers,2,21,False,Capitals,4,35,True
+Blue Jackets,4,27,True,Predators,2,32,False
+Blues,2,26,False,Ducks,3,35,True
+Wild,2,28,False,Golden Knights,3,34,True
+Flames,0,32,False,Jets,4,19,True
+Sharks,3,33,True,Avalanche,2,32,False
+Coyotes,2,30,False,Kings,4,22,True
+Hurricanes,1,37,False,Blackhawks,2,27,True
+Bruins,4,34,True,Rangers,0,15,False
+Islanders,1,33,False,Devils,2,25,True
+Penguins,8,34,True,Sabres,4,23,False
+Maple Leafs,5,35,True,Canadiens,2,21,False
+Oilers,3,42,False,Canucks,6,27,True
+Lightning,2,27,False,Stars,5,31,True
+Capitals,2,30,False,Flyers,4,29,True
+Blue Jackets,2,24,False,Red Wings,5,36,True
+Wild,4,36,True,Ducks,3,25,False
+Golden Knights,4,35,True,Blues,3,25,False
+Kings,2,17,False,Avalanche,3,37,True
+Sharks,2,28,False,Coyotes,5,34,True
+Bruins,4,39,False,Rangers,5,23,True
+Penguins,1,23,True,Sabres,0,29,False
+Islanders,5,27,True,Devils,1,24,False
+Capitals,2,40,True,Flyers,1,29,False
+Panthers,5,35,True,Lightning,1,29,False
+Blue Jackets,5,36,True,Red Wings,4,37,False
+Maple Leafs,3,26,True,Canadiens,2,23,False
+Jets,2,29,False,Senators,4,23,True
+Predators,3,30,True,Hurricanes,1,22,False
+Wild,4,25,True,Ducks,3,22,False
+Oilers,4,34,True,Canucks,3,25,False
+Golden Knights,4,29,True,Blues,1,21,False
+Kings,2,18,False,Avalanche,3,30,True
+Sharks,4,48,False,Coyotes,5,32,True
+Blackhawks,4,25,True,Stars,2,39,False
+Flames,6,36,True,Senators,1,20,False
+Flyers,4,31,True,Devils,2,25,False
+Canadiens,3,28,False,Oilers,4,35,True
+Bruins,3,38,True,Islanders,2,18,False
+Panthers,4,30,True,Lightning,0,30,False
+Jets,1,40,False,Canucks,3,31,True
+Predators,5,27,True,Hurricanes,0,30,False
+Blackhawks,4,23,False,Stars,5,50,True
+Kings,1,27,False,Blues,2,19,True
+Golden Knights,1,37,False,Avalanche,2,21,True
+Capitals,2,32,True,Bruins,1,25,False
+Jets,5,36,True,Canucks,0,24,False
+Canadiens,3,29,False,Oilers,4,22,True
+Senators,4,28,True,Maple Leafs,3,33,False
+Sharks,0,19,False,Golden Knights,6,44,True
+Avalanche,6,37,True,Kings,0,18,False
+Blues,4,27,True,Wild,0,31,False
+Blues,7,27,True,Wild,3,20,False
+Flames,4,28,True,Canucks,1,25,False
+Avalanche,5,43,True,Kings,1,22,False
+Jets,4,24,True,Maple Leafs,2,36,False
+Oilers,1,32,False,Canucks,4,41,True
+Capitals,3,32,True,Bruins,2,26,False
+Penguins,3,42,False,Islanders,4,41,True
+Golden Knights,0,42,False,Wild,1,30,True
+Panthers,4,39,False,Lightning,5,40,True
+Canucks,5,35,False,Flames,6,36,True
+Capitals,3,39,False,Bruins,4,48,True
+Hurricanes,5,38,True,Predators,2,24,False
+Avalanche,4,50,True,Blues,1,23,False
+Canucks,4,24,True,Flames,2,40,False
+Penguins,2,45,True,Islanders,1,38,False
+Panthers,1,33,False,Lightning,3,29,True
+Golden Knights,3,28,True,Wild,1,35,False
+Flames,6,28,True,Canucks,2,21,False
+Bruins,3,43,True,Capitals,2,37,False
+Hurricanes,3,31,True,Predators,0,32,False
+Oilers,1,33,False,Jets,4,22,True
+Avalanche,6,35,True,Blues,3,35,False

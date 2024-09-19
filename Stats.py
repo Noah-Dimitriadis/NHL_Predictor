@@ -86,4 +86,3 @@ if __name__ == "__main__":
         for game in games:
             file.write(game)
         file.close()
-
