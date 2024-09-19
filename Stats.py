@@ -72,7 +72,7 @@ if __name__ == "__main__":
     for i in range(len(season_end_dates)):
         s_year = season_start_dates[i][:4]
         e_year = season_end_dates[i][:4]
-        file = open(f"YearData/Year_{s_year}{e_year}.csv", "a")
+        file = open(f"YearData/Year_{s_year}{e_year}.csv", "w+")
         file.write('HomeTeam,HomeScore,HomeSOG,Outcome,AwayTeam,AwayScore,AwaySOG,Outcome\n')
         generated = pd.date_range(start=season_start_dates[i], end=season_end_dates[i])
 
